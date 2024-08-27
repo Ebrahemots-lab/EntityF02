@@ -1,0 +1,116 @@
+D:\Diploma\C#\Entity Framework\Session01\EFCORE01Demo\Assignment\bin\Debug\net8.0\Assignment.exe
+D:\Diploma\C#\Entity Framework\Session01\EFCORE01Demo\Assignment\bin\Debug\net8.0\Assignment.deps.json
+D:\Diploma\C#\Entity Framework\Session01\EFCORE01Demo\Assignment\bin\Debug\net8.0\Assignment.runtimeconfig.json
+D:\Diploma\C#\Entity Framework\Session01\EFCORE01Demo\Assignment\bin\Debug\net8.0\Assignment.dll
+D:\Diploma\C#\Entity Framework\Session01\EFCORE01Demo\Assignment\bin\Debug\net8.0\Assignment.pdb
+D:\Diploma\C#\Entity Framework\Session01\EFCORE01Demo\Assignment\bin\Debug\net8.0\Humanizer.dll
+D:\Diploma\C#\Entity Framework\Session01\EFCORE01Demo\Assignment\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Diploma\C#\Entity Framework\Session01\EFCORE01Demo\Assignment\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Diploma\C#\Entity Framework\Session01\EFCORE01Demo\Assignment\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Diploma\C#\Entity Framework\Session01\EFCORE01Demo\Assignment\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Diploma\C#\Entity Framework\Session01\EFCORE01Demo\Assignment\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Diploma\C#\Entity Framework\Session01\EFCORE01Demo\Assignment\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Diploma\C#\Entity Framework\Session01\EFCORE01Demo\Assignment\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Diploma\C#\Entity Framework\Session01\EFCORE01Demo\Assignment\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Diploma\C#\Entity Framework\Session01\EFCORE01Demo\Assignment\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Diploma\C#\Entity Framework\Session01\EFCORE01Demo\Assignment\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Diploma\C#\Entity Framework\Session01\EFCORE01Demo\Assignment\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Diploma\C#\Entity Framework\Session01\EFCORE01Demo\Assignment\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Diploma\C#\Entity Framework\Session01\EFCORE01Demo\Assignment\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Diploma\C#\Entity Framework\Session01\EFCORE01Demo\Assignment\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Diploma\C#\Entity Framework\Session01\EFCORE01Demo\Assignment\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Diploma\C#\Entity Framework\Session01\EFCORE01Demo\Assignment\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Diploma\C#\Entity Framework\Session01\EFCORE01Demo\Assignment\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Diploma\C#\Entity Framework\Session01\EFCORE01Demo\Assignment\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Diploma\C#\Entity Framework\Session01\EFCORE01Demo\Assignment\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Diploma\C#\Entity Framework\Session01\EFCORE01Demo\Assignment\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Diploma\C#\Entity Framework\Session01\EFCORE01Demo\Assignment\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Diploma\C#\Entity Framework\Session01\EFCORE01Demo\Assignment\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Diploma\C#\Entity Framework\Session01\EFCORE01Demo\Assignment\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Diploma\C#\Entity Framework\Session01\EFCORE01Demo\Assignment\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Diploma\C#\Entity Framework\Session01\EFCORE01Demo\Assignment\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Diploma\C#\Entity Framework\Session01\EFCORE01Demo\Assignment\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Diploma\C#\Entity Framework\Session01\EFCORE01Demo\Assignment\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Diploma\C#\Entity Framework\Session01\EFCORE01Demo\Assignment\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Diploma\C#\Entity Framework\Session01\EFCORE01Demo\Assignment\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Diploma\C#\Entity Framework\Session01\EFCORE01Demo\Assignment\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Diploma\C#\Entity Framework\Session01\EFCORE01Demo\Assignment\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Diploma\C#\Entity Framework\Session01\EFCORE01Demo\Assignment\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Diploma\C#\Entity Framework\Session01\EFCORE01Demo\Assignment\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Diploma\C#\Entity Framework\Session01\EFCORE01Demo\Assignment\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Diploma\C#\Entity Framework\Session01\EFCORE01Demo\Assignment\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Diploma\C#\Entity Framework\Session01\EFCORE01Demo\Assignment\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Diploma\C#\Entity Framework\Session01\EFCORE01Demo\Assignment\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Diploma\C#\Entity Framework\Session01\EFCORE01Demo\Assignment\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Diploma\C#\Entity Framework\Session01\EFCORE01Demo\Assignment\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Diploma\C#\Entity Framework\Session01\EFCORE01Demo\Assignment\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Diploma\C#\Entity Framework\Session01\EFCORE01Demo\Assignment\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Diploma\C#\Entity Framework\Session01\EFCORE01Demo\Assignment\obj\Debug\net8.0\Assignment.csproj.AssemblyReference.cache
+D:\Diploma\C#\Entity Framework\Session01\EFCORE01Demo\Assignment\obj\Debug\net8.0\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Diploma\C#\Entity Framework\Session01\EFCORE01Demo\Assignment\obj\Debug\net8.0\Assignment.AssemblyInfoInputs.cache
+D:\Diploma\C#\Entity Framework\Session01\EFCORE01Demo\Assignment\obj\Debug\net8.0\Assignment.AssemblyInfo.cs
+D:\Diploma\C#\Entity Framework\Session01\EFCORE01Demo\Assignment\obj\Debug\net8.0\Assignment.csproj.CoreCompileInputs.cache
+D:\Diploma\C#\Entity Framework\Session01\EFCORE01Demo\Assignment\obj\Debug\net8.0\Assignment.csproj.Up2Date
+D:\Diploma\C#\Entity Framework\Session01\EFCORE01Demo\Assignment\obj\Debug\net8.0\Assignment.dll
+D:\Diploma\C#\Entity Framework\Session01\EFCORE01Demo\Assignment\obj\Debug\net8.0\refint\Assignment.dll
+D:\Diploma\C#\Entity Framework\Session01\EFCORE01Demo\Assignment\obj\Debug\net8.0\Assignment.pdb
+D:\Diploma\C#\Entity Framework\Session01\EFCORE01Demo\Assignment\obj\Debug\net8.0\Assignment.genruntimeconfig.cache
+D:\Diploma\C#\Entity Framework\Session01\EFCORE01Demo\Assignment\obj\Debug\net8.0\ref\Assignment.dll
+E:\Courses\EF\Projects\workingWithEfCoreDemo\Assignment\bin\Debug\net8.0\Assignment.exe
+E:\Courses\EF\Projects\workingWithEfCoreDemo\Assignment\bin\Debug\net8.0\Assignment.deps.json
+E:\Courses\EF\Projects\workingWithEfCoreDemo\Assignment\bin\Debug\net8.0\Assignment.runtimeconfig.json
+E:\Courses\EF\Projects\workingWithEfCoreDemo\Assignment\bin\Debug\net8.0\Assignment.dll
+E:\Courses\EF\Projects\workingWithEfCoreDemo\Assignment\bin\Debug\net8.0\Assignment.pdb
+E:\Courses\EF\Projects\workingWithEfCoreDemo\Assignment\bin\Debug\net8.0\Humanizer.dll
+E:\Courses\EF\Projects\workingWithEfCoreDemo\Assignment\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Courses\EF\Projects\workingWithEfCoreDemo\Assignment\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Courses\EF\Projects\workingWithEfCoreDemo\Assignment\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Courses\EF\Projects\workingWithEfCoreDemo\Assignment\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Courses\EF\Projects\workingWithEfCoreDemo\Assignment\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Courses\EF\Projects\workingWithEfCoreDemo\Assignment\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Courses\EF\Projects\workingWithEfCoreDemo\Assignment\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Courses\EF\Projects\workingWithEfCoreDemo\Assignment\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Courses\EF\Projects\workingWithEfCoreDemo\Assignment\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Courses\EF\Projects\workingWithEfCoreDemo\Assignment\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Courses\EF\Projects\workingWithEfCoreDemo\Assignment\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Courses\EF\Projects\workingWithEfCoreDemo\Assignment\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\Courses\EF\Projects\workingWithEfCoreDemo\Assignment\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Courses\EF\Projects\workingWithEfCoreDemo\Assignment\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Courses\EF\Projects\workingWithEfCoreDemo\Assignment\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\Courses\EF\Projects\workingWithEfCoreDemo\Assignment\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Courses\EF\Projects\workingWithEfCoreDemo\Assignment\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Courses\EF\Projects\workingWithEfCoreDemo\Assignment\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Courses\EF\Projects\workingWithEfCoreDemo\Assignment\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Courses\EF\Projects\workingWithEfCoreDemo\Assignment\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Courses\EF\Projects\workingWithEfCoreDemo\Assignment\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Courses\EF\Projects\workingWithEfCoreDemo\Assignment\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Courses\EF\Projects\workingWithEfCoreDemo\Assignment\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Courses\EF\Projects\workingWithEfCoreDemo\Assignment\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Courses\EF\Projects\workingWithEfCoreDemo\Assignment\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Courses\EF\Projects\workingWithEfCoreDemo\Assignment\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Courses\EF\Projects\workingWithEfCoreDemo\Assignment\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Courses\EF\Projects\workingWithEfCoreDemo\Assignment\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Courses\EF\Projects\workingWithEfCoreDemo\Assignment\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Courses\EF\Projects\workingWithEfCoreDemo\Assignment\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Courses\EF\Projects\workingWithEfCoreDemo\Assignment\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Courses\EF\Projects\workingWithEfCoreDemo\Assignment\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Courses\EF\Projects\workingWithEfCoreDemo\Assignment\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Courses\EF\Projects\workingWithEfCoreDemo\Assignment\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Courses\EF\Projects\workingWithEfCoreDemo\Assignment\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Courses\EF\Projects\workingWithEfCoreDemo\Assignment\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Courses\EF\Projects\workingWithEfCoreDemo\Assignment\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Courses\EF\Projects\workingWithEfCoreDemo\Assignment\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Courses\EF\Projects\workingWithEfCoreDemo\Assignment\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Courses\EF\Projects\workingWithEfCoreDemo\Assignment\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Courses\EF\Projects\workingWithEfCoreDemo\Assignment\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Courses\EF\Projects\workingWithEfCoreDemo\Assignment\obj\Debug\net8.0\Assignment.csproj.AssemblyReference.cache
+E:\Courses\EF\Projects\workingWithEfCoreDemo\Assignment\obj\Debug\net8.0\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\EF\Projects\workingWithEfCoreDemo\Assignment\obj\Debug\net8.0\Assignment.AssemblyInfoInputs.cache
+E:\Courses\EF\Projects\workingWithEfCoreDemo\Assignment\obj\Debug\net8.0\Assignment.AssemblyInfo.cs
+E:\Courses\EF\Projects\workingWithEfCoreDemo\Assignment\obj\Debug\net8.0\Assignment.csproj.CoreCompileInputs.cache
+E:\Courses\EF\Projects\workingWithEfCoreDemo\Assignment\obj\Debug\net8.0\Assignment.csproj.Up2Date
+E:\Courses\EF\Projects\workingWithEfCoreDemo\Assignment\obj\Debug\net8.0\Assignment.dll
+E:\Courses\EF\Projects\workingWithEfCoreDemo\Assignment\obj\Debug\net8.0\refint\Assignment.dll
+E:\Courses\EF\Projects\workingWithEfCoreDemo\Assignment\obj\Debug\net8.0\Assignment.pdb
+E:\Courses\EF\Projects\workingWithEfCoreDemo\Assignment\obj\Debug\net8.0\Assignment.genruntimeconfig.cache
+E:\Courses\EF\Projects\workingWithEfCoreDemo\Assignment\obj\Debug\net8.0\ref\Assignment.dll
